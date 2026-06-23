@@ -1,18 +1,15 @@
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="30%" valign="top">
 <img src="assets/images/1000383428.jpg" alt="Shubham Bhandare" width="220">
 </td>
 
-<td width="75%" valign="top">
-
+<td width="70%" valign="top">
 <h2>About Me</h2>
-
 <p>
-I am a postgraduate student in Economics at Azim Premji University...
+...
 </p>
-
 </td>
 </tr>
 </table>

@@ -24,10 +24,11 @@ navigation:    # accepts {file, title, url, icon, sidebaricon}
   - {file: "writing.md", title: "Writing", sidebaricon: pencil-alt}
   - {file: "photogallery.md", title: "Photo Gallery", sidebaricon: camera}
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+external:
+  - {title: Email, icon: envelope, url: "mailto:shubham.bhandare.econ@gmail.com"}
+  - {title: GitHub, icon: github, url: "https://github.com/shubham-econ"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/shubham-bhandare-316443234"}
+  - {title: X (Twitter), icon: twitter, url: "https://x.com/shubham_b02"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

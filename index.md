@@ -1,18 +1,17 @@
 
 <table>
 <tr>
-<td width="30%">
-
+<td width="25%" valign="top">
 <img src="assets/images/1000383428.jpg" alt="Shubham Bhandare" width="220">
-
 </td>
-<td width="70%">
 
-# About Me
+<td width="75%" valign="top">
 
-I am a postgraduate student in Economics at Azim Premji University. My research interests lie in applied microeconomics and the political economy of development, with a particular focus on caste, segregation, elections, social networks, and crime.
+<h2>About Me</h2>
 
-I enjoy working with a wide range of datasets, from traditional survey and administrative data to novel and unconventional sources, to better understand social and political processes and their implications for development.
+<p>
+I am a postgraduate student in Economics at Azim Premji University...
+</p>
 
 </td>
 </tr>

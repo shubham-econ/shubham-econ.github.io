@@ -14,7 +14,7 @@
 </tr>
 </table>
 
-## Research Interests
+Research Interests
 
 * Applied Microeconomics
 * Political Economy of Development
@@ -24,7 +24,7 @@
 * Social Networks
 * Crime and Governance
 
-## Contact
+Contact
 
 **Email:** [shubham.bhandare.econ@gmail.com](mailto:shubham.bhandare.econ@gmail.com)
 

@@ -2,7 +2,7 @@
 <table width="100%">
 <tr>
 <td width="30%" valign="top">
-<img src="assets/images/1000854640.jpg" alt="Shubham Bhandare" width="350">
+<img src="assets/images/1000854640.jpg" alt="Shubham Bhandare" width="1000">
 </td>
 
 <td width="70%" valign="top">

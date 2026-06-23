@@ -1,5 +1,3 @@
-# Research
-
 ## Working Papers
 
 ### Causes and Consequences of SC/ST Candidate Presence in Unreserved Constituencies: Evidence from Maharashtra

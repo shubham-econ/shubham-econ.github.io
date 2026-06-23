@@ -14,13 +14,4 @@ Hello, I am Shubham Bhandare, a postgraduate student in Economics at Azim Premji
 </tr>
 </table>
 
-Research Interests
-
-* Applied Microeconomics
-* Political Economy of Development
-* Caste and Social Stratification
-* Segregation
-* Electoral Politics
-* Social Networks
-* Crime and Governance
 

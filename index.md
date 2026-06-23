@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="30%">
+<td width="60%">
 
 <img src="assets/images/1000383428.jpg" alt="Shubham Bhandare" width="220">
 
 </td>
-<td width="70%">
+<td width="100%">
 
 ## About Me
 

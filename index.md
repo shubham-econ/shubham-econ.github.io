@@ -24,12 +24,3 @@ Research Interests
 * Social Networks
 * Crime and Governance
 
-Contact
-
-**Email:** [shubham.bhandare.econ@gmail.com](mailto:shubham.bhandare.econ@gmail.com)
-
-**GitHub:** github.com/shubham-econ
-
-**LinkedIn:** linkedin.com/in/shubham-bhandare-316443234
-
-**X (Twitter):** @shubham_b02

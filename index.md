@@ -1,7 +1,7 @@
 # Shubham Bhandare
 
 <p align="center">
-  <img src="assets/profile.jpg" alt="Shubham Bhandare" width="220">
+  <img src="assets/images/1000383428.jpg" alt="Shubham Bhandare" width="220">
 </p>
 
 ## About Me

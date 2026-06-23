@@ -1,8 +1,6 @@
 ---
-
 ## title: Writing
-
-# Writing
+---
 
 Coming Soon.
 

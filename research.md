@@ -1,8 +1,17 @@
 # Research
 
-## Working Papersm
+## Working Papers
 
 ### Causes and Consequences of SC/ST Candidate Presence in Unreserved Constituencies: Evidence from Maharashtra
+
+**Status:** Working Paper
+
+**Keywords:** Political Representation, Scheduled Castes, Scheduled Tribes, Elections, Development, Maharashtra
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+<br>
 
 This paper examines the determinants and developmental consequences of Scheduled Caste (SC) and Scheduled Tribe (ST) candidates contesting from unreserved constituencies in Maharashtra.
 
@@ -12,6 +21,4 @@ To estimate the consequences of candidate presence, I employ a staggered differe
 
 The findings suggest that repeated political participation strengthens the bargaining power of marginalized communities and improves local development outcomes over time.
 
-**Status:** Working Paper
-
-**Keywords:** Political Representation, Scheduled Castes, Scheduled Tribes, Elections, Development, Maharashtra
+</details>

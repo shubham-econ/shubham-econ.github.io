@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Shubham Bhandare"
+author: "Shubham Bhandare"
+description: "Personal Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,9 +17,12 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+navigation:    # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home", sidebaricon: home}
+  - {file: "research.md", title: "Research", sidebaricon: flask}
+  - {file: "cv.md", title: "CV", sidebaricon: address-card}
+  - {file: "writing.md", title: "Writing", sidebaricon: pencil-alt}
+  - {file: "photogallery.md", title: "Photo Gallery", sidebaricon: camera}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}

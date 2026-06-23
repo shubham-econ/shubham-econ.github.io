@@ -1,4 +1,3 @@
-# Shubham Bhandare
 
 <table>
 <tr>
@@ -9,7 +8,7 @@
 </td>
 <td width="70%">
 
-## About Me
+# About Me
 
 I am a postgraduate student in Economics at Azim Premji University. My research interests lie in applied microeconomics and the political economy of development, with a particular focus on caste, segregation, elections, social networks, and crime.
 

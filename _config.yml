@@ -25,19 +25,15 @@ navigation:
   - {file: "writing.md", title: "Writing", sidebaricon: pencil-alt}
   - {file: "photogallery.md", title: "Photo Gallery", sidebaricon: camera}
 
-  footer:
+footer:
   - {url: "mailto:shubham.bhandare.econ@gmail.com", title: "Email"}
   - {url: "https://github.com/shubham-econ", title: "GitHub"}
   - {url: "https://www.linkedin.com/in/shubham-bhandare-316443234", title: "LinkedIn"}
   - {url: "https://x.com/shubham_b02", title: "X"}
 
-# Comments (disabled)
-
 comments:
 #  disqus_shortname: ""
 #  isso_domain: ""
-
-# Plugins
 
 plugins:
   - jekyll-feed

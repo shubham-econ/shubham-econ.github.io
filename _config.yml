@@ -1,32 +1,37 @@
 title: "Shubham Bhandare"
+
 author: "Shubham Bhandare"
-description: "Personal Website"
-permalink: /:title/
+
+description: "Research Assistant, Centre for Policy Research | Political Economy | Elections | Caste Politics"
+
 lang: "en"
+permalink: /:title/
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout
+# Layout Settings
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false            # show a sidebar instead of the usual header
-show_minimal: false           # remove all clutter
+show_excerpts: false
+show_frame: false
+show_sidebar: false
+show_minimal: false
 
-#show_frame: "/assets/images/background.svg"
+# Navigation Menu
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
-
-navigation:    # accepts {file, title, url, icon, sidebaricon}
+navigation:
   - {file: "index.md", title: "Home", sidebaricon: home}
   - {file: "research.md", title: "Research", sidebaricon: flask}
   - {file: "cv.md", title: "CV", sidebaricon: address-card}
   - {file: "writing.md", title: "Writing", sidebaricon: pencil-alt}
   - {file: "photogallery.md", title: "Photo Gallery", sidebaricon: camera}
 
+# Comments (disabled)
+
 comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+#  disqus_shortname: ""
+#  isso_domain: ""
+
+# Plugins
 
 plugins:
- - jekyll-feed
+  - jekyll-feed

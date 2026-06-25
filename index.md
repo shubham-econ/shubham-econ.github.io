@@ -13,15 +13,15 @@ title: Home
 
 # Shubham Bhandare
 
-Research Assistant, Centre for Policy Research
+**Research Assistant, Centre for Policy Research (CPR)**
 
 *M.A. Economics, Azim Premji University*
 
-I am currently a Research Assistant at the Centre for Policy Research (CPR), where I work with Rahul Verma on projects related to political parties, elections, and public opinion.
+I am a Research Assistant at the Centre for Policy Research, where I work with Rahul Verma on projects related to political parties, elections, and public opinion.
 
-My research interests lie in political economy, political representation, caste politics, electoral behavior, and public policy. I am particularly interested in understanding how institutions, political processes, and historical contexts shape socio-economic outcomes.
+My research lies at the intersection of political economy and political behavior, with a particular focus on caste, political representation, elections, and public policy. I am interested in understanding how institutions and political processes shape socio-economic outcomes.
 
-My current work focuses on caste representation in elections, dominant and founding political parties, electoral geography, constituency delimitation, and the political determinants of public goods provision.
+Currently, my work examines caste representation in legislative elections, dominant party systems, electoral geography, and the historical evolution of political institutions in India.
 
 </div>
 
@@ -30,18 +30,23 @@ My current work focuses on caste representation in elections, dominant and found
 ## Research Interests
 
 * Political Economy
-* Electoral Politics
+* Elections and Voting Behaviour
 * Caste and Political Representation
-* Public Goods Provision
+* Public Policy
 * Historical Political Development
 * Applied Econometrics
 
-## Current Projects
+## Current Research
 
-* Caste Representation in Maharashtra Legislative Elections
+* Caste Representation in Maharashtra Legislative Elections, 1962–2019
 * Founding Parties and Dominant Party Systems
 * Electoral Geography and Constituency Delimitation
-* Historical Political Development in Maharashtra
+* Political Determinants of Public Goods Provision
+
+## Education
+
+**Azim Premji University**
+M.A. Economics
 
 ## Contact
 

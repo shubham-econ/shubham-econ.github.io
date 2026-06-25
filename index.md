@@ -11,34 +11,48 @@ title: Home
 
 <div class="about-text">
 
-# Shubham Bhandare
+<h1>Shubham Bhandare</h1>
 
-**Research Assistant, Centre for Policy Research (CPR)**
+<p><strong>Research Assistant, Centre for Policy Research (CPR)</strong></p>
 
-*M.A. Economics, Azim Premji University*
+<p><em>M.A. Economics, Azim Premji University</em></p>
 
+<p>
 I am a Research Assistant at the Centre for Policy Research, where I work with Rahul Verma on projects related to political parties, elections, and public opinion.
+</p>
 
-My research lies at the intersection of political economy and political behavior, with a particular focus on caste, political representation, elections, and public policy. I am interested in understanding how institutions and political processes shape socio-economic outcomes.
+<p>
+My research interests lie at the intersection of political economy, political representation, caste politics, electoral behavior, and public policy. I am particularly interested in understanding how institutions, political processes, and historical contexts shape socio-economic outcomes.
+</p>
 
-Currently, my work examines caste representation in legislative elections, dominant party systems, electoral geography, and the historical evolution of political institutions in India.
+<p>
+My current work focuses on caste representation in elections, dominant party systems, electoral geography, constituency delimitation, and the political determinants of public goods provision.
+</p>
+
+<p>
+<a href="cv">CV</a> ·
+<a href="research">Research</a> ·
+<a href="writing">Writing</a>
+</p>
 
 </div>
 
 </div>
+
+---
 
 ## Research Interests
 
 * Political Economy
-* Elections and Voting Behaviour
+* Electoral Politics
 * Caste and Political Representation
-* Public Policy
+* Public Goods Provision
 * Historical Political Development
 * Applied Econometrics
 
 ## Current Research
 
-* Caste Representation in Maharashtra Legislative Elections, 1962–2019
+* Caste Representation in Maharashtra Legislative Elections (1962–2019)
 * Founding Parties and Dominant Party Systems
 * Electoral Geography and Constituency Delimitation
 * Political Determinants of Public Goods Provision
@@ -50,7 +64,8 @@ M.A. Economics
 
 ## Contact
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+**Email:** [your.email@example.com](mailto:your.email@example.com)
 
+**GitHub:** https://github.com/yourusername
+
+**LinkedIn:** https://linkedin.com/in/yourprofile

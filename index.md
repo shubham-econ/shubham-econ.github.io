@@ -1,7 +1,6 @@
 ---
-
-## title: Home
-
+title: Home
+---
 <div class="about-container">
 
 <div class="about-img-wrapper">

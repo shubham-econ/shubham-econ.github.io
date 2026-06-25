@@ -2,7 +2,7 @@ title: "Shubham Bhandare"
 
 author: "Shubham Bhandare"
 
-description: "@ 2026 Shubham Bhandare"
+description: "© 2026 Shubham Bhandare"
 
 lang: "en"
 permalink: /:title/
@@ -26,7 +26,7 @@ navigation:
   - {file: "photogallery.md", title: "Photo Gallery", sidebaricon: camera}
 
 footer:
-  - {url: "mailto:shubham.bhandare.econ@gmail.com", title: "Email"}
+  - {url: "mailto:shubham.bhandare.econ@gmail.com", title: "shubham.bhandare.econ@gmail.com"}
   - {url: "https://github.com/shubham-econ", title: "GitHub"}
   - {url: "https://www.linkedin.com/in/shubham-bhandare-316443234", title: "LinkedIn"}
   - {url: "https://x.com/shubham_b02", title: "X"}

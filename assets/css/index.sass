@@ -18,8 +18,10 @@ body > *
   flex-shrink: 0
 
 .about-img
-  width: 300px
-  height: 500px
+  width: 100%
+  max-width: 350px
+  height: auto
+  aspect-ratio: 4 / 5
   object-fit: cover
   border-radius: 8px
   display: block
@@ -30,10 +32,13 @@ body > *
 @media (max-width: 768px)
   .about-container
     flex-direction: column
+    align-items: center
 
   .about-img
-    width: 180px
-    height: 180px
+    max-width: 220px
+
+  .about-text
+    text-align: center
 
 footer i
   font-size: 1.6rem
@@ -41,11 +46,3 @@ footer i
 
 footer a
   text-decoration: none
-
-
-
-
-
-
-
-    

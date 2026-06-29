@@ -8,7 +8,7 @@ title: Home
      class="about-img">
 </div>
 <div class="about-text">
-<h1>Shubham Bhandare</h1>
+<h1>About Me</h1>
 <p><strong>Research Assistant, Centre for Policy Research (CPR)</strong></p>
 <p><em>M.A. Economics, Azim Premji University</em></p>
 <p>

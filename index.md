@@ -18,7 +18,7 @@ I completed my MA in Economics from Azim Premji University, Bengaluru. For my ma
 candidates contesting from unreserved constituencies in Maharashtra.
 </p>
 <p>
-My research interests lie at the intersection of Economics and Politics. I am particularly interested in understanding how institutions, political processes, and historical contexts shape socio-economic outcomes. Applied microeconomics,  political economy, political representation, caste politics, voting behavior, and public policy are the areas that continually spark my curiosity.
+My research interests lie at the intersection of Economics and Politics. I am particularly interested in understanding how institutions, political processes, and historical contexts shape socio-economic outcomes. Applied microeconomics, political economy, political representation, caste politics, voting behavior, and public policy are the areas that continually spark my curiosity.
 </p>
 <p>
 I am passionate about exploring different types of datasets, ranging from conventional to unconventional. 

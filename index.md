@@ -24,6 +24,9 @@ My research interests lie at the intersection of Economics and Politics. I am pa
 I am passionate about exploring different types of datasets, ranging from conventional to unconventional. 
 </p>
 <p>
+<strong>Email:</strong> shubham.bhandare.econ@gmail.com 
+</p>
+<p>
 <a href="cv">CV</a> ·
 <a href="research">Research</a> ·
 <a href="writing">Writing</a>

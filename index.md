@@ -11,7 +11,7 @@ title: Home
 <h1>About Me</h1>
 
 <p>
-Hello, I am Shubham Bhandare, currently working as Research Assistant at the Centre for Policy Research(CPR), where I work with Dr.Rahul Verma on projects related to political parties, elections, and public opinion. 
+Hello, I am Shubham Bhandare, currently working as Research Assistant at the Centre for Policy Research(CPR), where I work with Dr. Rahul Verma on projects related to political parties, elections, and public opinion. 
 </p>
 <p>
 I completed my MA in Economics from Azim Premji University, Bengaluru. For my master's thesis, I examined the causes and consequences of Scheduled Caste (SC) and Scheduled Tribe (ST)

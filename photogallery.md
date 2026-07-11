@@ -4,8 +4,6 @@ layout: page
 permalink: /photogallery/
 ---
 
-# Photo Gallery
-
 A collection of photographs from my academic journey, field visits, travel, and everyday life.
 
 <div class="gallery">
